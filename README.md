@@ -15,3 +15,9 @@ This project uses jasmine to test the functionality of a feed reader website.It 
 * Wrote a test that ensures the menu changes visibility when the menu icon is clicked.
 * Wrote a test that ensures when the loadFeed function is called and completes its work, there is at least a single .entry element within the .feed container.
 * Wrote a test that ensures when a new feed is loaded by the loadFeed function that the content actually changes.
+
+### Libraries,Framework & API Used
+* jQuery
+* Handlebar
+* Jasmine
+* Google Feed Reader API.
